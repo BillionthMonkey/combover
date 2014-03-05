@@ -1,4 +1,4 @@
 Combover
 ========
 
-A self-hostable comment repository for use with statics websites.
+A self-hostable comment repository for use with static websites.
